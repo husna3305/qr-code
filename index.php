@@ -6,7 +6,7 @@ require_once('koneksi.php') ?>
 
 <head>
   <meta charset="utf-8">
-  <title>Generate QR-Code</title>
+  <title>Web Generate QR-Code</title>
   <meta name="description" content="particles.js is a lightweight JavaScript library for creating particles.">
   <meta name="author" content="Vincent Garreau" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
